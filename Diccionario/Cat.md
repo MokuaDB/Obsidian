@@ -1,0 +1,1 @@
+El comando cat en Linux es uno de los más útiles que puedes aprender. Deriva su nombre de la palabra concatenar y te permite crear, fusionar o imprimir archivos en la pantalla de salida estándar o en otro archivo y mucho más.
