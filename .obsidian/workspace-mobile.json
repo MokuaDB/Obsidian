@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bash shell.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Bash shell.md",
+            "file": "README.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Bash shell.md",
+            "file": "README.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Bash shell.md"
+            "file": "README.md"
           }
         }
       },
@@ -139,22 +139,23 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "7714255f7f7dcf54",
+  "active": "8344991f0952b492",
   "lastOpenFiles": [
+    "Ciber seguridad/Soluciones retos.md",
+    "Ciber seguridad/Over the wire.md",
     "README.md",
+    "Ciber seguridad/Páginas web ciber seguridad.md",
+    "Ciber seguridad/Ataques más comunes",
+    "Ciber seguridad/Ataques más comunes..md",
     "Bash shell.md",
     "Ciber seguridad/Ciber.canvas",
     "Ciber seguridad/Ingeniería social.md",
     "Diccionario/Cat.md",
-    "Ciber seguridad/Over the wire.md",
-    "Ciber seguridad/Soluciones retos.md",
-    "Ciber seguridad/Ataque DoS y DDoS.md",
-    "Ciber seguridad/Ataques más comunes..md",
+    "Ciber seguridad/Ataques más comunes/Ataque DoS y DDoS.md",
     "Ft_Cursus/Libft.md",
     "Diccionario/Ssh.md",
-    "Ciber seguridad/Páginas web ciber seguridad.md",
-    "Ciber seguridad/Ransomware.md",
-    "Ciber seguridad/Ataque por Fuerza Bruta.md",
+    "Ciber seguridad/Ataques más comunes/Ransomware.md",
+    "Ciber seguridad/Ataques más comunes/Ataque por Fuerza Bruta.md",
     "Roadmap Computer Science.md",
     "Ciber seguridad.md",
     "Ciber seguridad"
