@@ -1,3 +1,8 @@
 {
-  "accentColor": ""
+  "accentColor": "#d69429",
+  "cssTheme": "Blue Topaz",
+  "textFontFamily": "Source Code Pro",
+  "interfaceFontFamily": "MiClock",
+  "monospaceFontFamily": "Helvetica",
+  "baseFontSize": 16
 }
