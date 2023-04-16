@@ -1,20 +1,20 @@
 {
   "main": {
-    "id": "0e62da9293110ebf",
+    "id": "21bc9691a70e5c6c",
     "type": "split",
     "children": [
       {
-        "id": "1f489df499680e27",
+        "id": "c475f8875db80aea",
         "type": "tabs",
         "children": [
           {
-            "id": "a1bcad2635fa9c29",
+            "id": "910d235c73f00aa7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/Ciber seguridad/Sistemas de protección de las comunicaciones..md",
-                "mode": "preview",
+                "file": "Corne keyboard/Material.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -25,11 +25,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "0ff13d5a4b0ed2ce",
+    "id": "a8b64def912abed3",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "1e27430e8d3b5320",
+        "id": "33c672384b330e0f",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -39,12 +39,12 @@
         }
       },
       {
-        "id": "a927fd7906973bd1",
+        "id": "684098ef0b064ee8",
         "type": "leaf",
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#IDS",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -54,7 +54,7 @@
         }
       },
       {
-        "id": "cf4dc6729d81d754",
+        "id": "5f86172f9b23e898",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -65,7 +65,7 @@
         }
       },
       {
-        "id": "7636cf527b89e5f5",
+        "id": "20bc1ddedb085b46",
         "type": "leaf",
         "state": {
           "type": "starred",
@@ -73,19 +73,19 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
-    "id": "26cc4485ff581e37",
+    "id": "4f2e344f8aa2f877",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "952f2d60186de2b7",
+        "id": "e735d9a9011e54c5",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Obsidian/Ciber seguridad/Sistemas de protección de las comunicaciones..md",
+            "file": "Corne keyboard/Material.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,54 +97,52 @@
         }
       },
       {
-        "id": "b762f8354283d9ed",
+        "id": "3b1ae369c21129c0",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Obsidian/Ciber seguridad/Sistemas de protección de las comunicaciones..md",
+            "file": "Corne keyboard/Material.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
         }
       },
       {
-        "id": "250eb69c9750c65c",
+        "id": "d587fd789131694e",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "Obsidian/Ciber seguridad/Sistemas de protección de las comunicaciones..md"
+            "file": "Corne keyboard/Material.md"
           }
         }
+      },
+      {
+        "id": "dab58e26570881f5",
+        "type": "leaf",
+        "state": {
+          "type": "advanced-tables-toolbar",
+          "state": {}
+        }
       }
-    ],
-    "currentTab": 0
+    ]
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Abrir quick switcher": false,
       "graph:Abrir vista de gráfico": false,
       "canvas:Create new canvas": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "a1bcad2635fa9c29",
+  "active": "910d235c73f00aa7",
   "lastOpenFiles": [
-    "ejemplo_sistema_ids.png",
-    "Obsidian/Linux/File System Hierarchy.md",
-    "Obsidian/Ciber seguridad/Sistemas de protección de las comunicaciones..md",
-    "Obsidian/Ciber seguridad/Soluciones retos.md",
-    "Obsidian/Imágenes/ejemplo_sistema_ids.png",
-    "Obsidian/Ciber seguridad/Páginas web ciber seguridad.md",
-    "Project/Project/Corne keyboard/Material.md",
-    "Obsidian/Linux/Introducción a la términal o Shell.md",
-    "Obsidian/Linux/Información del Sistema.md",
-    "Obsidian/Ciber seguridad/Ataques más comunes",
-    "Obsidian/Ciber seguridad/Ataques más comunes..md",
-    "Obsidian/Ciber seguridad/Ataques más comunes/Ataque por Fuerza Bruta.md"
+    "Corne keyboard/Material.md",
+    "Corne keyboard/Material.md",
+    "Corne keyboard"
   ]
 }
