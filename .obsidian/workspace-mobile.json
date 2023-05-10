@@ -1,20 +1,20 @@
 {
   "main": {
-    "id": "f2c61a819363baf3",
+    "id": "0e62da9293110ebf",
     "type": "split",
     "children": [
       {
-        "id": "9e9349ac71dfff09",
+        "id": "1f489df499680e27",
         "type": "tabs",
         "children": [
           {
-            "id": "7714255f7f7dcf54",
+            "id": "a1bcad2635fa9c29",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bash shell.md",
-                "mode": "source",
+                "file": "Linux/Información del Sistema.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -25,11 +25,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "4347fcdbb429acc4",
+    "id": "0ff13d5a4b0ed2ce",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "8344991f0952b492",
+        "id": "1e27430e8d3b5320",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -39,13 +39,13 @@
         }
       },
       {
-        "id": "0a9fff08c4479dda",
+        "id": "a927fd7906973bd1",
         "type": "leaf",
         "state": {
           "type": "search",
           "state": {
             "query": "",
-            "matchingCase": false,
+            "matchingCase": true,
             "explainSearch": false,
             "collapseAll": false,
             "extraContext": false,
@@ -54,7 +54,7 @@
         }
       },
       {
-        "id": "2650fe668f49b381",
+        "id": "cf4dc6729d81d754",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -65,10 +65,18 @@
         }
       },
       {
-        "id": "4a6dfd823b1a8f17",
+        "id": "7636cf527b89e5f5",
         "type": "leaf",
         "state": {
           "type": "starred",
+          "state": {}
+        }
+      },
+      {
+        "id": "1191a58c343fbd93",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
           "state": {}
         }
       }
@@ -76,87 +84,99 @@
     "currentTab": 0
   },
   "right": {
-    "id": "9a8c51b97395bec6",
+    "id": "26cc4485ff581e37",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "b66e9d1086f457d8",
+        "id": "952f2d60186de2b7",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Bash shell.md",
+            "file": "Linux/Información del Sistema.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
             "showSearch": false,
             "searchQuery": "",
             "backlinkCollapsed": false,
-            "unlinkedCollapsed": false
+            "unlinkedCollapsed": true
           }
         }
       },
       {
-        "id": "720fa0d531074bab",
+        "id": "b762f8354283d9ed",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Bash shell.md",
+            "file": "Linux/Información del Sistema.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
         }
       },
       {
-        "id": "b3e4b4f51e95ec27",
+        "id": "250eb69c9750c65c",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "Bash shell.md"
+            "file": "Linux/Información del Sistema.md"
           }
         }
-      },
-      {
-        "id": "4ae0a3b29931207e",
-        "type": "leaf",
-        "state": {
-          "type": "advanced-tables-toolbar",
-          "state": {}
-        }
       }
-    ]
+    ],
+    "currentTab": 0
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Abrir quick switcher": false,
       "graph:Abrir vista de gráfico": false,
       "canvas:Create new canvas": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false
+      "command-palette:Abrir paleta de comandos": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7714255f7f7dcf54",
+  "active": "a1bcad2635fa9c29",
   "lastOpenFiles": [
+    "Linux/Introducción a la términal o Shell.md",
+    "Obsidian/Ciber seguridad/Ataques/Ingeniería social.md",
+    "Obsidian/Ciber seguridad/Ataques/Ataque por Fuerza Bruta.md",
+    "Obsidian/Ciber seguridad/Páginas web ciber seguridad.md",
+    "Obsidian/Ciber seguridad/Over the wire.md",
+    "Linux/File System Hierarchy.md",
+    "Linux/Información del Sistema.md",
+    "Project/Project/Corne keyboard/Material.md",
+    "Sistemas de protección de las comunicaciones.md",
+    "Imágenes/ejemplo_sistema_ids.png",
     "README.md",
-    "Bash shell.md",
-    "Ciber seguridad/Ciber.canvas",
-    "Ciber seguridad/Ingeniería social.md",
-    "Diccionario/Cat.md",
-    "Ciber seguridad/Over the wire.md",
-    "Ciber seguridad/Soluciones retos.md",
-    "Ciber seguridad/Ataque DoS y DDoS.md",
-    "Ciber seguridad/Ataques más comunes..md",
-    "Ft_Cursus/Libft.md",
-    "Diccionario/Ssh.md",
-    "Ciber seguridad/Páginas web ciber seguridad.md",
-    "Ciber seguridad/Ransomware.md",
-    "Ciber seguridad/Ataque por Fuerza Bruta.md",
-    "Roadmap Computer Science.md",
-    "Ciber seguridad.md",
-    "Ciber seguridad"
+    "Sistemas de protección de las comunicaciones",
+    "Obsidian/DevOps/Control de versiones Git..md",
+    "Obsidian/DevOps/AWS Solutions Architect. Cloud computing..md",
+    "Obsidian/Fundamentos Programación/Programación estructurada.md",
+    "Obsidian/Ciber seguridad/Ataques más comunes..md",
+    "Linux/Bash shell.md",
+    "Obsidian/Ciber seguridad/Ataques",
+    "Obsidian/Linux/Información del Sistema.md",
+    "Obsidian/Roadmap Computer Science.md",
+    "Obsidian/Fundamentos Programación",
+    "Obsidian/Ft_Cursus/Libft.md",
+    "Obsidian/Ft_Cursus",
+    "Obsidian/Diccionario/Ls.md",
+    "Obsidian/Diccionario/Ssh.md",
+    "Obsidian/Diccionario/Cat.md",
+    "Obsidian/Diccionario",
+    "Obsidian/DevOps",
+    "Obsidian/Ciber seguridad/Ataques/Ataque DoS y DDoS.md",
+    "Obsidian/Ciber seguridad/Soluciones retos.md",
+    "Obsidian/Ciber seguridad/Ataques/Ransomware.md",
+    "Obsidian/Ciber seguridad",
+    "Obsidian/Linux/File System Hierarchy.md",
+    "Obsidian/Ciber seguridad/Sistemas de protección de las comunicaciones..md",
+    "Obsidian/Imágenes/ejemplo_sistema_ids.png",
+    "Obsidian/Ciber seguridad/Ataques más comunes"
   ]
 }
