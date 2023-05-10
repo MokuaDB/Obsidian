@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/Ciber seguridad/Sistemas de protección de las comunicaciones..md",
+                "file": "Linux/Información del Sistema.md",
                 "mode": "preview",
                 "source": false
               }
@@ -44,8 +44,8 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#IDS",
-            "matchingCase": false,
+            "query": "",
+            "matchingCase": true,
             "explainSearch": false,
             "collapseAll": false,
             "extraContext": false,
@@ -71,9 +71,17 @@
           "type": "starred",
           "state": {}
         }
+      },
+      {
+        "id": "1191a58c343fbd93",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "26cc4485ff581e37",
@@ -85,7 +93,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Obsidian/Ciber seguridad/Sistemas de protección de las comunicaciones..md",
+            "file": "Linux/Información del Sistema.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Obsidian/Ciber seguridad/Sistemas de protección de las comunicaciones..md",
+            "file": "Linux/Información del Sistema.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +122,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Obsidian/Ciber seguridad/Sistemas de protección de las comunicaciones..md"
+            "file": "Linux/Información del Sistema.md"
           }
         }
       }
@@ -134,17 +142,41 @@
   },
   "active": "a1bcad2635fa9c29",
   "lastOpenFiles": [
-    "ejemplo_sistema_ids.png",
+    "Linux/Introducción a la términal o Shell.md",
+    "Obsidian/Ciber seguridad/Ataques/Ingeniería social.md",
+    "Obsidian/Ciber seguridad/Ataques/Ataque por Fuerza Bruta.md",
+    "Obsidian/Ciber seguridad/Páginas web ciber seguridad.md",
+    "Obsidian/Ciber seguridad/Over the wire.md",
+    "Linux/File System Hierarchy.md",
+    "Linux/Información del Sistema.md",
+    "Project/Project/Corne keyboard/Material.md",
+    "Sistemas de protección de las comunicaciones.md",
+    "Imágenes/ejemplo_sistema_ids.png",
+    "README.md",
+    "Sistemas de protección de las comunicaciones",
+    "Obsidian/DevOps/Control de versiones Git..md",
+    "Obsidian/DevOps/AWS Solutions Architect. Cloud computing..md",
+    "Obsidian/Fundamentos Programación/Programación estructurada.md",
+    "Obsidian/Ciber seguridad/Ataques más comunes..md",
+    "Linux/Bash shell.md",
+    "Obsidian/Ciber seguridad/Ataques",
+    "Obsidian/Linux/Información del Sistema.md",
+    "Obsidian/Roadmap Computer Science.md",
+    "Obsidian/Fundamentos Programación",
+    "Obsidian/Ft_Cursus/Libft.md",
+    "Obsidian/Ft_Cursus",
+    "Obsidian/Diccionario/Ls.md",
+    "Obsidian/Diccionario/Ssh.md",
+    "Obsidian/Diccionario/Cat.md",
+    "Obsidian/Diccionario",
+    "Obsidian/DevOps",
+    "Obsidian/Ciber seguridad/Ataques/Ataque DoS y DDoS.md",
+    "Obsidian/Ciber seguridad/Soluciones retos.md",
+    "Obsidian/Ciber seguridad/Ataques/Ransomware.md",
+    "Obsidian/Ciber seguridad",
     "Obsidian/Linux/File System Hierarchy.md",
     "Obsidian/Ciber seguridad/Sistemas de protección de las comunicaciones..md",
-    "Obsidian/Ciber seguridad/Soluciones retos.md",
     "Obsidian/Imágenes/ejemplo_sistema_ids.png",
-    "Obsidian/Ciber seguridad/Páginas web ciber seguridad.md",
-    "Project/Project/Corne keyboard/Material.md",
-    "Obsidian/Linux/Introducción a la términal o Shell.md",
-    "Obsidian/Linux/Información del Sistema.md",
-    "Obsidian/Ciber seguridad/Ataques más comunes",
-    "Obsidian/Ciber seguridad/Ataques más comunes..md",
-    "Obsidian/Ciber seguridad/Ataques más comunes/Ataque por Fuerza Bruta.md"
+    "Obsidian/Ciber seguridad/Ataques más comunes"
   ]
 }

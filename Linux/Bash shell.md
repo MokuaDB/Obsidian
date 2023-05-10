@@ -1,0 +1,1 @@
+Bash es un intérprete de comandos
