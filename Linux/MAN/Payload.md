@@ -1,0 +1,1 @@
+Un payload es la parte del código del malware que realiza la acción maliciosa en el sistema, mientras que el exploit es la parte encargada de aprovechar una vulnerabilidad que permita ejecutar el payload.

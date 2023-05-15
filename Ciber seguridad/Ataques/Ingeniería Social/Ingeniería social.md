@@ -1,5 +1,6 @@
+___
 
-La ingeniería social consiste en manipular a una persona para que esta realice aquello que el ingeniero social le propone.
+>La ingeniería social consiste en manipular a una persona para que esta realice aquello que el ingeniero social le propone.
 
 Un ciberatacante manipulará a una persona a través de técnicas psicológicas y habilidades sociales para conseguir información de su interés y/o ganar acceso a sistemas.
 
@@ -28,3 +29,11 @@ FASES INGENIERÍA SOCIAL
 **Manipulación**: Ejecución del ataque en el que se buscará conseguir determinado objetivo.
 
 **Salida**: Se corta la interacción con la víctima y se intentan borrar las huellas.
+
+###### Tipos de ataque
+
+- Phishing: Este ciberataque suele hacer uso del correo electrónico, redes sociales o aplicaciones de mensajería. Aunque suele estar asociado al robo de credenciales bancarias, en 2020, suplantaron a una empresa de paquetería mencionando que no se había podido realizar la entrega y que debía reprogramar la entrega previo pago.
+
+- Vishing: Generalmente se produce a través de llamadas de teléfono. Los  mas conocidos son los *scams* (timos)
+
+- Smishing: A través de SMS.

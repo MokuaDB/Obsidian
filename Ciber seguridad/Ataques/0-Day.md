@@ -1,0 +1,2 @@
+___
+Este tipo de ataques se basan en explotar las vulnerabilidades presentes en un software o en la red que aún no han sido anunciadas por los desarrolladores de que existen,y por lo tanto aún no existe parche o solución. En este caso los ciberdelincuentes aprovechan la vulnerabilidad revelada en la pequeña ventana de tiempo, en la que no existe ninguna solución o medida preventiva.

@@ -1,0 +1,3 @@
+___
+El código SQL es un lenguaje de programación que se utiliza para administrar y obtener información de bases de datos. Una base de datos es una recopilación de información o datos organizados que pueden ser utilizados o consultados posteriormente.
+Una inyección SQL se basa en utilizar las instrucciones de una base de datos que no han sido correctamente aseguradas, insertándole instrucciones adicionales, de forma que el atacante gana acceso a información que no debería.
