@@ -1,0 +1,1 @@
+Una botnet es un conjunto de ordenadores, denominados bots, infectados con un tipo de malware que son controlados remotamente por un atacante y que pueden ser utilizados de manera conjunta para realizar actividades maliciosas.

@@ -1,0 +1,2 @@
+___
+Equipo informático que hace de intermediario entre el cliente (usuario) y el servidor, es decir, cuando el usuario realiza una petición, el proxy la recibe y la envía al servidor de la web. Así la página web no conocerá la IP del usuario.

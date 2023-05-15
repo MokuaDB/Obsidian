@@ -1,0 +1,2 @@
+___
+Los ataques XSS se basan en la misa teoría que los ISQL, en este caso el objetivo es la app que sirve a la página web. Los atacantes aprovechan una vulnerabilidad o fallo de seguridad de la página web legítima e implantan [[Script]] maliciosos en ella.
