@@ -16,24 +16,24 @@
             }
           },
           {
-            "id": "2c1449ce00357415",
+            "id": "6f2302adbc89548f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciber seguridad/Aspectos avanzados/Blockchain.md",
+                "file": "Ciber seguridad/Aspectos avanzados/Fases del Hacking ético.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d6434591a75ddf7e",
+            "id": "05a078fb81e6710c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GitKraken/Git.md",
+                "file": "Ciber seguridad/Administración sistemas de ciberseguridad/Administración de redes y direcciones IP.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5e844eb9c886b300",
@@ -118,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GitKraken/Git.md"
+                "file": "Ciber seguridad/Administración sistemas de ciberseguridad/Administración de redes y direcciones IP.md"
               }
             }
           },
@@ -136,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GitKraken/Git.md",
+                "file": "Ciber seguridad/Administración sistemas de ciberseguridad/Administración de redes y direcciones IP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GitKraken/Git.md",
+                "file": "Ciber seguridad/Administración sistemas de ciberseguridad/Administración de redes y direcciones IP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,11 +176,21 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "d6434591a75ddf7e",
+  "active": "05a078fb81e6710c",
   "lastOpenFiles": [
-    "Ciber seguridad/Aspectos avanzados/Blockchain.md",
+    "Ciber seguridad/Aspectos avanzados/Fases del Hacking ético.md",
+    "Ciber seguridad/Administración sistemas de ciberseguridad/Administración de redes y direcciones IP.md",
+    "Ciber seguridad/Administración sistemas de ciberseguridad",
+    "Ciber seguridad/Aspectos avanzados/Introducción a la informática forense.md",
+    "Ciber seguridad/Aspectos avanzados/Big Data.md",
+    "Pasted image 20230517060822.png",
+    "Pasted image 20230516125400.png",
+    "Pasted image 20230516125219.png",
+    "Ciber seguridad/Aspectos avanzados/Hacking ético.md",
+    "Ciber seguridad/Aspectos avanzados/Blockchain/Tipos de redes blockchain.md",
+    "Ciber seguridad/Aspectos avanzados/Blockchain/Blockchain.md",
+    "Ciber seguridad/Aspectos avanzados/Blockchain",
     "GitKraken/Git.md",
-    "Untitled",
     "GitKraken",
     "Ciber seguridad/Aspectos avanzados/Introducción a la ingeniería inversa.md",
     "Ciber seguridad/Aspectos avanzados/Criptografía/Criptografía.md",
@@ -199,22 +208,15 @@
     "Ciber seguridad/Ataques/Ingeniería Social/Ingeniería social.md",
     "Ciber seguridad/Ataques/Ingeniería Social",
     "Ciber seguridad/Ataques/Ransomware",
-    "Ciber seguridad/Aspectos avanzados/Introducción a la informática forense.md",
     "Ciber seguridad/Ataques/Ataque a las Conexiones/DoS y DDoS",
     "Ciber seguridad/Ataques/Malware/Malware.md",
-    "Ciber seguridad/Aspectos avanzados/Hacking ético.md",
-    "Ciber seguridad/Aspectos avanzados/Fases del Hacking ético.md",
     "Ciber seguridad/Ataques/Ransomware/Ransomware.md",
     "Ciber seguridad/Aspectos básicos/Seguridad de la información,seguridad informática y ciberseguridad..md",
     "Ciber seguridad/Aspectos básicos/Ciclo de vida de un ciberataque.md",
     "Linux/MAN/Proxy.md",
     "Linux/MAN/Cat.md",
     "Linux/MAN/Ls.md",
-    "Linux/MAN/Script.md",
-    "Linux/MAN/Ssh.md",
-    "Linux/MAN/Payload.md",
     "Ciber seguridad/Aspectos avanzados",
-    "Ciber seguridad/Aspectos básicos",
     "Imágenes/Pasted image 20230511070701.png"
   ]
 }
