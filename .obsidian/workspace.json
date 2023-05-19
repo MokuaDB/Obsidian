@@ -22,7 +22,7 @@
               "type": "markdown",
               "state": {
                 "file": "Ciber seguridad/Aspectos avanzados/Fases del Hacking ético.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -90,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5e844eb9c886b300",
@@ -180,6 +181,8 @@
   "lastOpenFiles": [
     "Ciber seguridad/Aspectos avanzados/Fases del Hacking ético.md",
     "Ciber seguridad/Administración sistemas de ciberseguridad/Administración de redes y direcciones IP.md",
+    "Ciber seguridad/Aspectos básicos/Sistemas de protección de las comunicaciones.md",
+    "Ciber seguridad/Aspectos básicos/Seguridad de la información,seguridad informática y ciberseguridad..md",
     "Ciber seguridad/Administración sistemas de ciberseguridad",
     "Ciber seguridad/Aspectos avanzados/Introducción a la informática forense.md",
     "Ciber seguridad/Aspectos avanzados/Big Data.md",
@@ -211,11 +214,9 @@
     "Ciber seguridad/Ataques/Ataque a las Conexiones/DoS y DDoS",
     "Ciber seguridad/Ataques/Malware/Malware.md",
     "Ciber seguridad/Ataques/Ransomware/Ransomware.md",
-    "Ciber seguridad/Aspectos básicos/Seguridad de la información,seguridad informática y ciberseguridad..md",
     "Ciber seguridad/Aspectos básicos/Ciclo de vida de un ciberataque.md",
     "Linux/MAN/Proxy.md",
     "Linux/MAN/Cat.md",
-    "Linux/MAN/Ls.md",
     "Ciber seguridad/Aspectos avanzados",
     "Imágenes/Pasted image 20230511070701.png"
   ]
